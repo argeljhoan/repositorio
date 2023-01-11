@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../html"
+		},
+		{
+			"path": "../../../../07-estructura"
+		},
+		{
+			"path": "../../../../09-listas"
+		},
+		{
+			"path": "../../../../12-flexbox (2)"
+		},
+		{
+			"path": "../../../../11-flujo (1)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "11-flujo (1)"
+	}
+}
